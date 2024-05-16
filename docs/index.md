@@ -1,4 +1,4 @@
-# Space Expansion Project API (v0.1)
+# Space Expansion Project API (v0.1.3)
 
 Space Expansion Project - симулятор космической компании. Всё взаимодействие с игрой происходит через API
 
