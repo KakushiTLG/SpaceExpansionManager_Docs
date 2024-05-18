@@ -1,6 +1,6 @@
 site_name: Space Expansion Manager API
 site_url: https://sep.fdu.su/getting_started
-repo_url: https://github.com/KakushiTLG/SpaceExpansionManager_Docs
+repo_url: https://github.com/SpaceExpansionProject/started-doc
 
 nav:
   - 'index.md'
